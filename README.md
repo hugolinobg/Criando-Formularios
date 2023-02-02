@@ -6,7 +6,7 @@
 
 Projeto prático da Trilha Explorer da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://hugolinobg.github.io/Recriando-Layout-Extra)
+[🔗 Clique aqui para acessar](https://hugolinobg.github.io/Criando-Formularios/)
 
 ## 🛠️ Tecnologias
 
