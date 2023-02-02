@@ -21,7 +21,7 @@ body::before {
 }
 
 .page {
-  width: 1440px;
+  width: 100vw;
   /* max-height: 100vh; */
   margin: auto;
 }
