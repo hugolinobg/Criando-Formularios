@@ -1,2 +1,21 @@
-# Criando-Formularios
-Desafio do Stage 03 - Criando Formuláriosa - Trilha do Explorer 6 da @Rocketseat
+# Desafio do Stage 03 - Criando Formulários
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer 06
+
+Projeto prático da Trilha Explorer da Rocketseat.
+
+[🔗 Clique aqui para acessar](https://hugolinobg.github.io/Recriando-Layout-Extra)
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- Git
+- GitHub
+
+✉️ Contato
+
+hugolino2609@gmail.com
+
